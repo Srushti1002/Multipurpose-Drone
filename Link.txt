@@ -1,0 +1,88 @@
+http://www.circuitstoday.com/category/arduino/page/2
+
+Piezo Buzzer: https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45
+Digital Buzzer Module: https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0032_Web.pdf
+
+MQ2 Gas Sensor: https://www.youtube.com/watch?v=WL3mNmtGvhs
+		https://create.arduino.cc/projecthub/Aritro/smoke-detection-using-mq-2-gas-sensor-79c54a
+		https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/
+
+DHT11: https://www.hobbyist.co.nz/?q=documentations/wiring-up-dht11-temp-humidity-sensor-to-your-arduino
+		https://create.arduino.cc/projecthub/Arca_Ege/using-dht11-b0f365?ref=search&ref_id=DHT11&offset=3
+		https://create.arduino.cc/projecthub/thingsboard/temperature-dashboard-using-arduino-uno-esp8266-and-mqtt-5e26eb?ref=search&ref_id=temperature%20sensor&offset=1
+
+Vibration Sensor: https://create.arduino.cc/projecthub/MichDragstar/arduino-uno-and-vibration-sensor-with-relay-12d8f6?ref=search&ref_id=SW420%20vibration&offset=0
+			https://create.arduino.cc/projecthub/albertoz/vibration-sensor-module-c88067?ref=similar&ref_id=118661&offset=3
+
+GPS Module (NEO-6M): https://create.arduino.cc/projecthub/Oniichan_is_ded/gps-bluetooth-android-c3a90e?ref=search&ref_id=GPS%20Module&offset=1
+			https://www.youtube.com/watch?v=pVcjXIG4KW8
+			https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-gps-module-neo-6m-with-arduino-8f90ad?ref=tag&ref_id=gps&offset=1
+			https://create.arduino.cc/projecthub/Oniichan_is_ded/gps-bluetooth-android-c3a90e?ref=search&ref_id=GPS%20Module&offset=1
+			https://www.xarg.org/2016/06/neo6mv2-gps-module-with-arduino/
+			http://acoptex.com/project/258/basics-project-053b-neo-6m-gy-gps6mv2-gps-module-at-lex-c/
+			https://www.addicore.com/NEO-6M-GPS-p/231.htm
+			https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-gps-module-neo-6m-with-arduino-8f90ad
+			https://www.electronicwings.com/sensors-modules/gps-receiver-module
+			https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-arduino-mega-with-neo-6m-gps-module-1b7283
+
+ESP32-CAM: https://www.hellocodings.com/2019/06/esp32-cam-programming-without-adapters.html
+		https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+		https://roboindia.com/tutorials/esp32-cam-video-streaming-and-face-recognition/
+		https://randomnerdtutorials.com/esp32-cam-troubleshooting-guide/
+		https://randomnerdtutorials.com/esp32-static-fixed-ip-address-arduino-ide/
+		https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/
+
+Database: https://randomnerdtutorials.com/visualize-esp32-esp8266-sensor-readings-from-anywhere/
+
+ESP8266-Wifi Module: https://www.arduino.cc/en/Guide/ArduinoUnoWiFi
+	https://www.electronicwings.com/sensors-modules/esp8266-wifi-module
+	https://www.youtube.com/watch?v=mpwbigR_R7A
+	https://microcontrollerslab.com/data-receiving-webpage-arduino-esp8266/
+	https://microcontrollerslab.com/esp8266-nodemcu-web-server-in-arduino-ide/
+	https://electronicsforu.com/electronics-projects/graphical-data-display-arduino-html5
+	https://create.arduino.cc/projecthub/pratikdesai/how-to-program-esp8266-esp-01-module-with-arduino-uno-598166
+	https://www.electronicshub.org/update-flash-esp8266-firmware/
+
+	https://create.arduino.cc/projecthub/jeffpar0721/add-wifi-to-arduino-uno-663b9e
+	https://www.instructables.com/id/Add-WiFi-to-Arduino-UNO/
+
+	https://www.youtube.com/watch?v=YLKEZtLhfZo
+	https://circuits4you.com/2016/12/16/esp8266-web-server-html/
+
+	https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html
+	https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
+
+	http://fab.cba.mit.edu/classes/865.15/people/dan.chen/esp8266/
+	
+
+Digital compass (HMC5883L): https://www.instructables.com/id/Tutorial-to-Interface-HMC-5833L-With-Arduino-Uno/
+
+APM Power module: https://sunrobotics.co.in/multirotors-rc/apm-power-module-with-xt60-connector?zenid=6een8ps4r39fm9jh1nu4nvefg0
+
+MPU6050: https://maker.pro/arduino/tutorial/how-to-interface-arduino-and-the-mpu-6050-sensor
+
+http://www.ohmslawcalculator.com/voltage-divider-calculator
+
+Ultrasonic Sensor
+https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380
+https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/
+
+Light Sensor
+https://tutorial.cytron.io/2017/07/10/getting-started-light-sensor-module-sn-light-mod/
+
+PIR Motion Sensor
+https://randomnerdtutorials.com/arduino-with-pir-motion-sensor/
+
+Multithreading
+https://create.arduino.cc/projecthub/reanimationxp/how-to-multithread-an-arduino-protothreading-tutorial-dd2c37
+
+KK Board Setup
+https://www.youtube.com/watch?v=rPK4fnBwU6g
+https://www.youtube.com/watch?v=RCs2eEvz_Do
+https://www.youtube.com/watch?v=kQ6BYfsi2zU
+https://www.youtube.com/watch?v=gQf9zIhR4hQ&t=162s
+
+Report
+https://www.mydronelab.com/blog/arduino-quadcopter.html
+
+
